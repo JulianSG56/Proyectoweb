@@ -1,3 +1,22 @@
 body{
     background-color: rgb(205, 189, 193);
 }
+table{
+    margin: 0 auto;
+}
+.imagen{
+    width: 30%;
+    height: 30%;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+caption{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+tr{
+    color: brown;
+}
